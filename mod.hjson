@@ -1,23 +1,28 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Logic Support Extend"
+subtitle: "-逻辑辅助扩展"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "logic-support-extend"
 
 #your name
-author: "You"
+author: ""
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "m1cxzfw3q.tools.LogicSupportExtend"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "
+为游戏添加一个LogicIDE（画饼）
+"
 
 #the mod version
-version: 1.0
+version: 0.1
 
 #the minimum game build required to run this mod
-minGameVersion: 154
+minGameVersion: 157
 
 #this is a java mod
 java: true
+
+hidden: true

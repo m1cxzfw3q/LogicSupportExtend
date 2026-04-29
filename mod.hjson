@@ -9,7 +9,7 @@ name: "logic-support-extend"
 author: ""
 
 #the fully qualified main class of the mod
-main: "m1cxzfw3q.tools.LogicSupportExtend"
+main: "m1cxzfw3q.tools.LogicSupportExtend.LSEMain"
 
 #the mod description as seen in the mod dialog
 description: "
